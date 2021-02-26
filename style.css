@@ -39,6 +39,7 @@ body {
     font-family: 'Roboto', sans-serif;
     border-bottom: black 1px solid;
     width: 25%;
+    color: white;
 }
 
 .container {
